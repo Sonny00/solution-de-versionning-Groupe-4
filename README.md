@@ -14,6 +14,3 @@ Soutenance solution de version - Groupe 4
 [![GitHub open-pull-requests](https://badgen.net/github/open-prs/Sonny00/solution-de-versionning-Groupe-4)](https://github.com/Sonny00/solution-de-versionning-Groupe-4/pulls?q=is%3Aopen)
 
 [![GitHub pull-requests closed](https://badgen.net/github/closed-prs/Sonny00/solution-de-versionning-Groupe-4)](https://github.com/Sonny00/solution-de-versionning-Groupe-4/pulls?q=is%3Aclosed)
-
-
-[![GitHub pull-requests merged](https://badgen.net/github/merged-prs/Sonny00/solution-de-versionning-Groupe-4)](https://github.com/Sonny00/solution-de-versionning-Groupe-4/pulls?q=is%3Amerged)
