@@ -6,4 +6,5 @@ Avant de soumettre ce PR, veuillez vous assurer que :
 [ ] Vous avez ajouté des tests unitaires
 
 # Ecrire après le # le numéro d'issue 
+(:exclamation: cette opération va mettre cette issue dans la colonne "Fait")
 Closes #
