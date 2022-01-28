@@ -22,7 +22,7 @@ Description précise du comportement attendue
 **Screenshots**
 Screenshots afin d'aider à expliquer le bug
 
-**Informations sur le poste de travail:**
+**Informations sur le poste de travail**
 |Système d'exploitation|Navigateur web|Version|
 |---|---|---|
 |iOS, Windows, Linux...|chrome, safari, mozilla...|19, 22...|
